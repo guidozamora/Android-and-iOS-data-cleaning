@@ -1,5 +1,5 @@
 # Android-and-iOS-data-cleaning
 
-## Review of two data sets with iOS and Android application data. Data cleaning applied to both data sets to analyze data
+## This is a guided project from Dataquest in which we review of two data sets with iOS and Android application data and peform basic data cleaning and data analysis tasks. To access the project click the link below:
 
 https://github.com/guidozamora/Android-and-iOS-data-cleaning/blob/master/Basics.ipynb
